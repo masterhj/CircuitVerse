@@ -16,7 +16,7 @@ To help new contributors get started, we've created a video guide titled **"Gett
 *(Click the link above to watch the video on YouTube.)*
 
 ## Community
-We would love to hear from you! We communicate on Slack and dicord
+We would love to hear from you! We communicate on Slack,dicord and microsoft team
 
 [![Slack](https://img.shields.io/badge/chat-on_slack-purple.svg?style=for-the-badge&logo=slack)](https://circuitverse.org/slack)
 
